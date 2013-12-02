@@ -1,0 +1,104 @@
+﻿body	{
+	background-color: #664d4c;
+	font-family: century, serif;
+	color: #664d4c;
+}
+
+div{
+	border-style: solid;
+	border-width: 10px;
+	border-radius: 5px;
+	margin: 15px;
+
+	}
+	
+h1{
+	text-align: center;
+	font-family: Verdana, sans-serif;
+	fonz-size: 3.0em;
+}
+
+h2{
+	font-family: Verdana, sans-serif;
+	font-size: 1em;
+}
+
+em{
+	color: #805e4c;
+}
+
+
+img{
+	margin-right: 20px;
+}
+	
+/*	
+
+#Farbe1{
+	color:#445c7a;
+	background-color: #d7dbe0;	
+	border-color: #aed1c4;
+	}
+	
+#Farbe2{
+	color:#aed1c4;
+	background-color: #445c7a;	
+	border-color: #7ea6ba;
+	}
+
+#Farbe3{
+	color: #445c7a;
+	background-color: #e8e8dc;	
+	border-color: #445c7a;
+	
+	*/
+
+#Farbe1{
+/*	color: #a85141; */
+	background-color: #faea99;	
+	border-color: #f5a018;
+	}
+	
+#Farbe2{
+	color:#ebebe2;
+	background-color: #664d4c;	
+	border-color: #e86f71;
+	}
+
+#Farbe3{
+	/* color: #053b75; */
+	background-color: #f2f2ed;	
+	border-color: #c74d1c;
+}
+
+
+.oben {
+
+	margin-bottom:5px;
+}
+
+.unten{
+	
+	margin-top:5px;
+	padding-left: 5px;
+}
+	
+#links { 
+	
+	width: 35%;
+}
+
+
+
+/*---------------------Tabelle-------*/
+
+thead{
+	text-align: left;
+}
+	
+td{
+	padding: 5px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #aed1c4;
+}
